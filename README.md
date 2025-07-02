@@ -1,39 +1,127 @@
 <!-- 헤더 -->
-<h1 align="center">👋 Hi, I'm Gayoung!</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
+  Hi, I'm Gayoung!
+</h1>
+
+<h3 align="center">🚀 Android Developer | Kotlin & Java Enthusiast</h3>
+
 <p align="center">
-  Android Developer | Kotlin & Java Enthusiast
+  <img src="https://komarev.com/ghpvc/?username=gay00ung&label=Profile%20views&color=0e75b6&style=flat" alt="gay00ung" />
 </p>
 
 <!-- 소개 -->
-## 🚀 About Me
-- 🌱 I’m currently learning **Jetpack Compose & Coroutine**
-- 💬 Ask me about **Android Development, Kotlin, Java**
-- 📫 How to reach me: [gayoung99091@gmail.com](mailto:gayoung99091@gmail.com)
+## 👨‍💻 About Me
+
+```kotlin
+val gayoung = Developer(
+    name = "Gayoung Shin",
+    role = "Android Developer",
+    languages = listOf("Kotlin", "Java", "Python"),
+    currentlyLearning = listOf("Jetpack Compose", "Coroutines", "Clean Architecture"),
+    funFact = "I love creating apps that make people's lives easier!"
+)
+```
+
+- 🌱 Currently diving deep into **Jetpack Compose & Coroutines**
+- 💡 Passionate about **Clean Code** and **User Experience**
+- 🎯 Focus on creating **practical and user-friendly Android apps**
+- 📫 Reach me at: **gayoung99091@gmail.com**
 
 ---
 
-<!-- 기술 스택 -->
-## 🚀 Tech Stack
+## 📱 My Published Apps
+
+<div align="center">
+  
+### 💬 Communication & Social
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h4>📝 Monologue</h4>
+      <a href="https://play.google.com/store/apps/details?id=net.ifmain.monologue">
+        <img src="https://img.shields.io/badge/Download-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+      </a>
+      <br><br>
+      <i>간편한 일기 작성 앱</i>
+    </td>
+    <td align="center" width="50%">
+      <h4>🔤 WorgleWorgle</h4>
+      <a href="https://play.google.com/store/apps/details?id=com.worgle.worgle">
+        <img src="https://img.shields.io/badge/Download-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+      </a>
+      <br><br>
+      <i>실시간 단어 맞추기 게임</i>
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Utility Apps
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h4>🥗 Poit</h4>
+      <a href="https://play.google.com/store/apps/details?id=net.ifmain.poit.aos">
+        <img src="https://img.shields.io/badge/Download-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+      </a>
+      <br><br>
+      <i>AI 기반 스마트 식단 관리 앱</i>
+    </td>
+    <td align="center" width="50%">
+      <h4>📱 QR Mine</h4>
+      <a href="https://play.google.com/store/apps/details?id=net.ifmain.qr_mine">
+        <img src="https://img.shields.io/badge/Download-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+      </a>
+      <br><br>
+      <i>QR 코드 생성 유틸리티</i>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+</p>
+
+### 💻 Other Languages
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+### 🔧 Tools & Platforms
+<p align="center">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-<!-- 사용해본 Tool -->
-## 🛠 Tools I Have Used
+## 🤝 Collaboration Tools
+
 <p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
-  <br>
+</p>
+
+### 🔍 Reverse Engineering & Design
+<p align="center">
   <img src="https://img.shields.io/badge/JADX-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/JEB-FF6600?style=for-the-badge&logo=java&logoColor=white" />
   <br>
@@ -41,20 +129,31 @@
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
 </p>
 
-
 ---
 
-<!-- 깃허브 통계 -->
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gay00ung&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gay00ung&layout=compact&theme=tokyonight" height="150"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gay00ung&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gay00ung&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gay00ung&theme=tokyonight" alt="gay00ung" />
 </p>
 
 ---
 
-<!-- 연락 및 SNS -->
-## 📫 Contact Me
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gay00ung&theme=tokyonight&no-frame=true&margin-w=15&column=7" alt="gay00ung" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+
 <p align="center">
   <a href="mailto:gayoung99091@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -67,3 +166,6 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
