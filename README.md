@@ -26,7 +26,7 @@ val gayoung = Developer(
 - 🌱 Currently diving deep into **Jetpack Compose & Coroutines**
 - 💡 Passionate about **Clean Code** and **User Experience**
 - 🎯 Focus on creating **practical and user-friendly Android apps**
-- 📫 Reach me at: **gayoung99091@gmail.com**
+- 📫 Reach me at: **gayoung990911@gmail.com**
 
 ---
 
