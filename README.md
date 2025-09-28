@@ -75,13 +75,16 @@ val gayoung = Developer(
       <br><br>
       <i>QR 코드 생성 유틸리티</i>
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="50%">
       <h4>💱 HwanulTokTok</h4>
       <a href="https://play.google.com/store/apps/details?id=net.ifmain.hwanultoktok.kmp">
         <img src="https://img.shields.io/badge/Download-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
       </a>
       <br><br>
-      <i>즐겨찾기한 환율을 매일 1회 푸시로 알려주는 환율 알림 앱</i>
+      <i>즐겨찾기한 환율을 매일 1회<br>푸시로 알려주는 환율 알림 앱</i>
       <br>
       <sub>Kotlin Multiplatform 기반</sub>
     </td>
@@ -90,7 +93,6 @@ val gayoung = Developer(
     </td>
   </tr>
 </table>
-
 </div>
 
 ---
