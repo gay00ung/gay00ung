@@ -16,7 +16,7 @@
 ```kotlin
 val gayoung = Developer(
     name = "Gayoung Shin",
-    role = "Android Developer",ㅕ
+    role = "Android Developer",
     languages = listOf("Kotlin", "Java", "Python"),
     currentlyLearning = listOf("Jetpack Compose", "Coroutines", "Clean Architecture"),
     funFact = "I love creating apps that make people's lives easier!"
