@@ -54,7 +54,16 @@ val gayoung = Developer(
       <i>실시간 단어 맞추기 게임</i>
     </td>
   </tr>
-    <tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h4>💬 리톡 (ReTalk)</h4>
+      <a href="https://play.google.com/store/apps/details?id=net.lateinit.retalk">
+        <img src="https://img.shields.io/badge/Download-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+      </a>
+      <br><br>
+      <i>메시지 보내기 전, 상대의 반응을 예측해주는 AI 커뮤니케이션 앱</i>
+    </td>
     <td align="center" width="50%">
       <h4>🔮 호시링링</h4>
       <a href="https://play.google.com/store/apps/details?id=net.lateinit.starday">
@@ -64,9 +73,6 @@ val gayoung = Developer(
       <i>매일 확인하는 별자리 운세 앱</i>
       <br>
       <sub>React Native 기반</sub>
-    </td>
-    <td align="center" width="50%">
-      <!-- 비워둠 (레이아웃 유지용) -->
     </td>
   </tr>
 </table>
